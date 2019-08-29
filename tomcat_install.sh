@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update
-sudo apt install openjdk-8-jdk
+sudo apt install openjdk-8-jdk -y
 cd /opt
 wget https://www.apache.org/dist/tomcat/tomcat-8/v8.5.45/bin/apache-tomcat-8.5.45.tar.gz.asc
 tar -xvzf apache-tomcat-8.5.45.tar.gz.asc
