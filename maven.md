@@ -8,4 +8,4 @@
 # set JAVA_HOME path
 # JAVA_HOME=usr/lib/jvm/java-1.8.0-openjdk-amd64
 
-# PATH=$PATH:$JAVA_HOME:$M2_HOME:M2:$HOME/bin
+# PATH=$PATH:$JAVA_HOME:$M2_HOME:$M2:$HOME/bin
